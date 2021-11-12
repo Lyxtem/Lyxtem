@@ -29,4 +29,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@dlh-Syntax](https://github.com/dlh-Syntax)
