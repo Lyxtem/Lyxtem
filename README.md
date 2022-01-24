@@ -18,7 +18,7 @@ Actualmente soy aprendiz de el desarrollo de  bots en discord y administrador/co
 - <a><img height="23" src="https://cdn.discordapp.com/emojis/829209426514542592.gif"> 
 [Discord](https://discord.com/): Lyxtem#0001 </a>
 
-![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlh-syntax&show_icons=true&theme=radical)
+  ![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxtem&show_icons=true&theme=radical)
 
 :star: From [@Lyxtem](https://github.com/dlh-Syntax)
 
