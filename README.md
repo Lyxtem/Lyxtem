@@ -13,12 +13,12 @@ Actualmente soy aprendiz de el desarrollo de  bots en discord y administrador/co
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-- 💬 Pregúntame acerca de la programación en general, siempre estoy disponible para ayudar y aprender juntos.
+- 💬 Pregúntame acerca de la configuracion y gestión de servidores, siempre estoy disponible para ayudar y aprender juntos.
 
 - <a><img height="23" src="https://cdn.discordapp.com/emojis/829209426514542592.gif"> 
-[Discord](https://discord.com/): Lyxtem#0001 </a>
+[Discord](https://discord.com/): Lyxtem#0139 </a>
 
-  ![Syntax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxtem&show_icons=true&theme=radical)
+  ![Lyxtem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyxtem&show_icons=true&theme=radical)
 
-:star: From [@Lyxtem](https://github.com/dlh-Syntax)
+:star: From [@Lyxtem](https://github.com/lyxtem)
 
