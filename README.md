@@ -11,7 +11,7 @@ class Lyxtem:
 def  __social__(self):
  self.gtb = "https://github.com/Lyxtem"
  self.dsc = "Lyxtem#0139" 
- self.tlg = "https://t.me/Ayhhuu"
+ self.tlg = "..."
   
  ┌──(Lyxtem@root)-[~/]
  └─$
